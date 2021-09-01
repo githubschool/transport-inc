@@ -2,6 +2,7 @@
 
 - Class Date: September 1
 - Facilitator: @AAugustine
+- test
 
 ## Class Resources
 
